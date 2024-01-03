@@ -3,6 +3,7 @@ public class LowerCase {
     public static void main(String[] args) {  
         String str = args[0];
         System.out.println(lowerCase(str));
+        
     }
 
    /**
@@ -11,7 +12,17 @@ public class LowerCase {
     * Non-letter characters are left as is.
     */
     public static String lowerCase(String s) {
-        // Replace the following statement with your code
-        return null;
+        String newWord = "";
+        for(int i = 0; i<s.length(); i++)
+        {
+            if(s.charAt(i) > 64 && s.charAt(i) < 91)
+            {
+               newWord = newWord + (char)(s.charAt(i) + 32);
+            }
+            else{
+                newWord = newWord + s.charAt(i);
+            }
+        }
+        return newWord;
     }
 }
