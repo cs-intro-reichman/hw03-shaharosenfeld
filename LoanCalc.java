@@ -42,9 +42,9 @@ public class LoanCalc {
     	double g = loan/n;
 		iterationCounter=0;
 		double increment = 0.0001;//can be changed to any increment smaller than epsilon 
-		while(Math.abs(endBalance(loan, rate, n, g)) >= epsilon)
+		while((endBalance(loan, rate, n, g)) >= epsilon)
 		{
-			g = g + increment;
+			g = g + epsilon;
 			iterationCounter++;
 		}
     	return g;
