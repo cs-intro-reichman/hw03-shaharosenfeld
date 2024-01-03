@@ -2,7 +2,7 @@
 public class LowerCase {
     public static void main(String[] args) {  
         String str = args[0];
-        System.out.println(LowerCase(str));
+        System.out.println(lowercase(str));
         
     }
 
@@ -11,7 +11,7 @@ public class LowerCase {
     * except that all the upper-case letters are converted to lower-case letters.
     * Non-letter characters are left as is.
     */
-    public static String LowerCase(String s) {
+    public static String lowercase(String s) {
         String newWord = "";
         for(int i = 0; i<s.length(); i++)
         {
