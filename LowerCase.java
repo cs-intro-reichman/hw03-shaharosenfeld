@@ -1,6 +1,6 @@
 /** String processing exercise 1. */
 public class lowercase {
-    public static void main(String[] args) {  
+    public static void main(String[] args) {  //check
         String str = args[0];
         System.out.println(LowerCase(str));
         
