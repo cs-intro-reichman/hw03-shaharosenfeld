@@ -101,9 +101,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 1",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars programming",
+        "name": "UniqueChars test 1",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars programming",
         "input": "",
         "output": "progamin",
         "comparison": "exact",
@@ -111,9 +111,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 2",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars \"alphabet soup\"",
+        "name": "UniqueChars test 2",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars \"alphabet soup\"",
         "input": "",
         "output": "alphbet sou",
         "comparison": "exact",
@@ -121,9 +121,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 3",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars repetition",
+        "name": "UniqueChars test 3",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars repetition",
         "input": "",
         "output": "reption",
         "comparison": "exact",
@@ -131,9 +131,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 4",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars elephant",
+        "name": "UniqueChars test 4",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars elephant",
         "input": "",
         "output": "elphant",
         "comparison": "exact",
@@ -141,9 +141,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 5",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars \"umbrella academy\"",
+        "name": "UniqueChars test 5",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars \"umbrella academy\"",
         "input": "",
         "output": "umbrela cady",
         "comparison": "exact",
@@ -151,9 +151,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 6",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars \"back to the future\"",
+        "name": "UniqueChars test 6",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars \"back to the future\"",
         "input": "",
         "output": "back to he fur",
         "comparison": "exact",
@@ -161,9 +161,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 7",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars impossible",
+        "name": "UniqueChars test 7",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars impossible",
         "input": "",
         "output": "imposble",
         "comparison": "exact",
@@ -171,9 +171,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 8",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars \"!@#$%^&*()!@#$%^&*()\"",
+        "name": "UniqueChars test 8",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars \"!@#$%^&*()!@#$%^&*()\"",
         "input": "",
         "output": "!@#$%^&*()",
         "comparison": "exact",
@@ -181,9 +181,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 9",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars pineapple",
+        "name": "UniqueChars test 9",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars pineapple",
         "input": "",
         "output": "pineapl",
         "comparison": "exact",
@@ -191,9 +191,9 @@
         "points": 1.5
     },
     {
-        "name": "uniquechars test 10",
-        "setup": "javac uniquechars.java",
-        "run": "java uniquechars \"a quick brown fox\"",
+        "name": "UniqueChars test 10",
+        "setup": "javac UniqueChars.java",
+        "run": "java UniqueChars \"a quick brown fox\"",
         "input": "",
         "output": "a quick brown fx",
         "comparison": "exact",
